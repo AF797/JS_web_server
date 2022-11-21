@@ -45,4 +45,5 @@ var openFile = function(file) {
 
 ![img1122](httpas://user-images.githubusercontent.com/86837707/203015142-379dcd29-3bdd-4b4a-bde4-89ae91b72772.jpg)
 
+
 정상적으로 작동되는 것을 확인할 수 있다.
