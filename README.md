@@ -33,7 +33,7 @@ var openFile = function(file) {
 
 ---
 
-![2211.PNG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%B0%E1%84%80%E1%85%B5%20d8ab777118f84fd895bc791d9f67df58/2211.png)
+![2211](https://user-images.githubusercontent.com/86837707/203015129-3347f0b8-da74-4e0c-991e-5432100fb8fe.png)
 
 ![2121](https://user-images.githubusercontent.com/86837707/203014759-3c689300-1700-4940-a586-59c481391168.png)
 
@@ -43,6 +43,6 @@ var openFile = function(file) {
 
 ---
 
-![img1122.JPG](JavaScript%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%B0%E1%84%80%E1%85%B5%20d8ab777118f84fd895bc791d9f67df58/img1122.jpg)
+![img1122](httpas://user-images.githubusercontent.com/86837707/203015142-379dcd29-3bdd-4b4a-bde4-89ae91b72772.jpg)
 
 정상적으로 작동되는 것을 확인할 수 있다.
